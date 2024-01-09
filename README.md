@@ -14,9 +14,5 @@ npm (Node Package Manager)
 MySQL
 # Installation
 Clone the repository: https://github.com/JohnHazukaJr/Ecom
-
-git clone git@github.com:
-# Testing
 run 'node server.js'
- 
  Do the routes
